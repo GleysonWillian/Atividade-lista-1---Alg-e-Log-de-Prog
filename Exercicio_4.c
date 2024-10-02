@@ -1,12 +1,6 @@
 #include <stdio.h>
 #include <locale.h>
 
-// insirir 4 nomes
-//  inserir 4 idades
-// somatório das idades
-// calcular a média das idades
-// imprimir a média das idades
-
 int main()
 {
     setlocale(LC_ALL, "");
