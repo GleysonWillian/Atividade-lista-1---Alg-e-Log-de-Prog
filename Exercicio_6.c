@@ -19,4 +19,6 @@ int main()
     valor_total = qtd * valor_unit;
 
     printf("\nValor total: %.2f", valor_total);
+
+    return 0;
 }
