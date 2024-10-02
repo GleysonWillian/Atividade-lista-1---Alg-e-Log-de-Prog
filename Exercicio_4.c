@@ -35,7 +35,7 @@ int main()
     scanf("%d", &idade_4);
 
     med = (idade_1 + idade_2 + idade_3 + idade_4) / 4;
-    printf("--------------------------------\n----------------------------------")
+    printf("\n");
     printf("O resultado da média aritmética das idades é de: %d anos.\n", med);
 
     return 0;
