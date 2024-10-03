@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <math.h>
+#include <stdlib.h>
 
 int main()
 {
@@ -41,7 +42,6 @@ int main()
             printf("\nOs valores de x1 e x2 sao iguais pois possuem apenas uma raiz real. Entao x1 = x2 = %.0f \n", x1);
         }
         else
-            (delta < 0);
         {
             printf("\nNao existe raiz real de numero negativo.\n");
         }
