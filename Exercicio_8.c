@@ -5,6 +5,7 @@ int main()
     float A, B, C;
     float delta;
     float x1, x2;
+    int sqrt();
 
     printf("Digite o valor de A: \n");
     scanf("%f", &A);
@@ -13,7 +14,7 @@ int main()
 
     printf("Digite o valor de B: \n");
     scanf("%f", &B);
-    
+
     getchar();
 
     printf("Digite o valor de C: \n");
