@@ -13,11 +13,11 @@ int main()
 
     if (n > 3600)
     {
-        printf("\nO valor da conversao temporal e de %d hora %d min e %d seg", hora, min, seg);
+        printf("\nO valor da conversao temporal e de %d hora(s) %d minuto(s) e %d segundo(s)", hora, min, seg);
     }
     else
     {
-        printf("\nO valor da conversao temporal e de %d min e %d seg", min, seg);
+        printf("\nO valor da conversao temporal e de %d minuto(s) e %d segundo(s9000090)", min, seg);
     }
     return 0;
 }
