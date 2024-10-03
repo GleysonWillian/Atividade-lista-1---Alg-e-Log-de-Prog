@@ -20,4 +20,4 @@ int main()
         printf("\nO valor da conversao temporal e de %d min e %d seg", min, seg);
     }
     return 0;
-}653
+}
