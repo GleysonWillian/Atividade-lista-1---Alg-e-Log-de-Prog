@@ -34,7 +34,7 @@ int main()
             x1 = (-B + sqrt(delta)) / (2 * A);
             x2 = (-B - sqrt(delta)) / (2 * A);
 
-            printf("\nOs valores das raizes sao de x1 = %.2f e x2 = %.0f \n", x1, x2);
+            printf("\nOs valores das raizes sao de x1 = %.0f e x2 = %.0f \n", x1, x2);
         }
         else if (delta == 0)
         {
