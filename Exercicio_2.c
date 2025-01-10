@@ -22,7 +22,7 @@ int main()
     printf("Digite a idade da segunda pessoa:\n");
     scanf("%d", &idade2);
 
-    printf("\n-----Informações das pessoas-----\n");
+    printf("\n-----Informacoess das pessoas-----\n");
     printf("\nNome da primeira pessoa: %s", nome1);
     printf("Idade da primeira pessoa: %d", idade1);
     printf("\n");
